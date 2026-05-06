@@ -8,9 +8,9 @@ BloodLink Nepal is a web-based blood donor management platform
 that connects blood donors with patients during emergencies in Nepal.
 
 ## Team Members
-- [Your Name] — PU Reg: XXXX-X-XX-XXXX
-- [Member 2 Name] — PU Reg: XXXX-X-XX-XXXX  
-- [Member 3 Name] — PU Reg: XXXX-X-XX-XXXX
+- [Aruna Khadka] 
+- [Rajiv pun] 
+- [sonic Smrit Shrestha] 
 
 ## College
 Malpi International College  
