@@ -33,3 +33,21 @@ A platform where:
 - Database: MongoDB
 - Design: Figma, Canva
 - Deployment: GitHub Pages + Render
+## References
+1. Shrestha, R., & Adhikari, P. (2022). Digital Health Adoption in Nepal. 
+   Journal of Health Informatics in Developing Countries, 16(1), 12–24.
+
+2. Nepal Red Cross Society. (2024). Blood Transfusion Services. 
+   https://www.nrcs.org
+
+3. Mozilla Developer Network. (2024). Web Development Documentation. 
+   https://developer.mozilla.org
+
+4. MongoDB. (2024). MongoDB Atlas Documentation. 
+   https://www.mongodb.com/docs
+
+5. GitHub Docs. (2024). Getting Started with GitHub. 
+   https://docs.github.com
+
+6. React Documentation. (2024). React Official Docs. 
+   https://react.dev
